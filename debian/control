@@ -1,0 +1,12 @@
+Source: ros-hydro-abb-moveit-plugins
+Section: misc
+Priority: extra
+Maintainer: Jeremy Zoss <jzoss@swri.org>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-moveit-core, ros-hydro-roscpp
+Homepage: http://ros.org/wiki/industrial_core
+Standards-Version: 3.9.2
+
+Package: ros-hydro-abb-moveit-plugins
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-moveit-core, ros-hydro-roscpp
+Description: ABB-specific plugins for MoveIt
