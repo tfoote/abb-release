@@ -1,0 +1,10 @@
+ros-hydro-abb-common (1.1.1-0precise) precise; urgency=high
+
+  * Updated package versions to match abb meta-package version, in prep for release
+  * Manually merged removal of include install and cleaned up CMakelist
+  * Cleaned up CMakelist comments and spacing
+  * Contributors: Berend Kupers, JeremyZoss, Joaquín Ignacio Aramendía, Shaun Edwards, gavanderhoorn, gomezc, jrgnicho, shaun-edwards
+
+ -- Shaun Edwards <sedwards@swri.org>  Tue, 27 May 2014 04:00:00 -0000
+
+
