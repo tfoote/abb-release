@@ -1,0 +1,12 @@
+Source: ros-hydro-irb-2400-moveit-config
+Section: misc
+Priority: extra
+Maintainer: MoveIt Setup Assistant <assistant@moveit.ros.org>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-abb-common, ros-hydro-catkin
+Homepage: http://moveit.ros.org/
+Standards-Version: 3.9.2
+
+Package: ros-hydro-irb-2400-moveit-config
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-abb-common, ros-hydro-industrial-robot-simulator, ros-hydro-moveit-ros-move-group, ros-hydro-moveit-simple-controller-manager
+Description: An automatically generated package with all the configuration and launch files for using the irb_2400 with the MoveIt Motion Planning Framework (deprecated).
