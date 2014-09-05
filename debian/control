@@ -1,0 +1,12 @@
+Source: ros-hydro-abb-common
+Section: misc
+Priority: extra
+Maintainer: Shaun Edwards <sedwards@swri.org>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-industrial-robot-client, ros-hydro-roslaunch, ros-hydro-simple-message
+Homepage: http://ros.org/wiki/industrial_core
+Standards-Version: 3.9.2
+
+Package: ros-hydro-abb-common
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-industrial-robot-client, ros-hydro-simple-message, ros-hydro-xacro
+Description: abb_common (deprecated)
