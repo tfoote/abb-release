@@ -1,0 +1,9 @@
+ros-hydro-abb-irb2400-moveit-plugins (1.1.3-0quantal) quantal; urgency=high
+
+  * Bump versions.
+  * irb2400: add regenerated IKFast Moveit plugin.
+  * Contributors: gavanderhoorn
+
+ -- Shaun Edwards (Southwest Research Institute) <sedewards@swri.org>  Fri, 05 Sep 2014 04:00:00 -0000
+
+
