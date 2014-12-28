@@ -2,6 +2,11 @@
 Changelog for package abb_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.4 (2014-12-14)
+------------------
+* Backported correct 5400 wrist to deprecated abb_common package
+* Contributors: Daniel Solomon
+
 1.1.3 (2014-09-05)
 ------------------
 * Merged changes from hydro (release) branch.  Changes include only release artifacts
