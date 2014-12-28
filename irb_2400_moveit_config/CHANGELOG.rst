@@ -2,6 +2,10 @@
 Changelog for package irb_2400_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.4 (2014-12-14)
+------------------
+* No changes
+
 1.1.3 (2014-09-05)
 ------------------
 * Merged changes from hydro (release) branch.  Changes include only release artifacts
