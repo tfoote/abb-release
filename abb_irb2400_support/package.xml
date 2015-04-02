@@ -1,6 +1,6 @@
 <package>
   <name>abb_irb2400_support</name>
-  <version>1.1.6</version>
+  <version>1.1.7</version>
   <description>
     <p>
       ROS-Industrial support for the ABB IRB 2400 (and variants).
@@ -23,7 +23,7 @@
     </p>
   </description>
   <author email="ds____on@swri.org">Dan Solomon (Southwest Research Institute)</author>
-  <maintainer email="sedewards@swri.org">Shaun Edwards (Southwest Research Institute)</maintainer>
+  <maintainer email="sedwards@swri.org">Shaun Edwards (Southwest Research Institute)</maintainer>
   <license>Apache2</license>
 
   <url type="website">http://ros.org/wiki/abb_irb2400_support</url>
